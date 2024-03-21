@@ -1,0 +1,74 @@
+2024-01-28 16:22:17 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "NEWS_USER" not found (this database is empty); SQL statement:
+SELECT  uid,username,user_pwd,nick_name,version,is_deleted  FROM news_user 
+ WHERE  is_deleted=0
+
+AND (username = ?) [42104-214]
+2024-01-28 21:06:01 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "NEWS_USER" not found (this database is empty); SQL statement:
+SELECT  uid,username,user_pwd,nick_name,version,is_deleted  FROM news_user 
+ WHERE  is_deleted=0
+
+AND (username = ?) [42104-214]
+2024-01-28 21:25:59 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "NEWS_USER" not found (this database is empty); SQL statement:
+SELECT  uid,username,user_pwd,nick_name,version,is_deleted  FROM news_user 
+ WHERE  is_deleted=0
+
+AND (username = ?) [42104-214]
+2024-01-29 13:26:39 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "NEWS_USER" not found (this database is empty); SQL statement:
+SELECT  uid,username,user_pwd,nick_name,version,is_deleted  FROM news_user 
+ WHERE  is_deleted=0
+
+AND (username = ?) [42104-214]
+2024-01-29 13:38:12 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "NEWS_USER" not found (this database is empty); SQL statement:
+SELECT  uid,username,user_pwd,nick_name,version,is_deleted  FROM news_user 
+ WHERE  is_deleted=0
+
+AND (username = ?) [42104-214]
+2024-01-29 13:40:56 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "NEWS_USER" not found (this database is empty); SQL statement:
+SELECT  uid,username,user_pwd,nick_name,version,is_deleted  FROM news_user 
+ WHERE  is_deleted=0
+
+AND (username = ?) [42104-214]
+2024-01-29 13:41:08 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "NEWS_USER" not found (this database is empty); SQL statement:
+SELECT  uid,username,user_pwd,nick_name,version,is_deleted  FROM news_user 
+ WHERE  is_deleted=0
+
+AND (username = ?) [42104-214]
+2024-01-29 14:07:58 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "NEWS_USER" not found (this database is empty); SQL statement:
+SELECT  uid,username,user_pwd,nick_name,version,is_deleted  FROM news_user 
+ WHERE is_deleted=0 [42104-214]
+2024-03-21 20:53:03 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "NEWS_HEADLINE" not found (this database is empty); SQL statement:
+INSERT INTO news_headline  ( hid,
+title,
+article )  VALUES  ( ?,
+?,
+? ) [42104-214]
+2024-03-21 20:55:19 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "NEWS_HEADLINE" not found (this database is empty); SQL statement:
+INSERT INTO news_headline  ( hid,
+title,
+article )  VALUES  ( ?,
+?,
+? ) [42104-214]
+2024-03-21 20:56:47 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "NEWS_HEADLINE" not found (this database is empty); SQL statement:
+INSERT INTO news_headline  ( hid,
+title,
+article )  VALUES  ( ?,
+?,
+? ) [42104-214]
+2024-03-21 21:01:49 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "NEWS_HEADLINE" not found (this database is empty); SQL statement:
+INSERT INTO news_headline  ( hid,
+title,
+article )  VALUES  ( ?,
+?,
+? ) [42104-214]

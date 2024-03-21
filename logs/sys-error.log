@@ -1,0 +1,4 @@
+20:53:03.675 [main] ERROR c.a.d.p.DruidDataSource - [validationQueryCheck,1249] - testWhileIdle is true, validationQuery not set
+20:55:18.857 [main] ERROR c.a.d.p.DruidDataSource - [validationQueryCheck,1249] - testWhileIdle is true, validationQuery not set
+20:56:47.408 [main] ERROR c.a.d.p.DruidDataSource - [validationQueryCheck,1249] - testWhileIdle is true, validationQuery not set
+21:01:49.784 [main] ERROR c.a.d.p.DruidDataSource - [validationQueryCheck,1249] - testWhileIdle is true, validationQuery not set

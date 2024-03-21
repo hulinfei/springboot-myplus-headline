@@ -1,0 +1,142 @@
+20:47:00.477 [main] INFO  com.cchu.Main - [logStarting,51] - Starting Main using Java 21.0.1 with PID 16172 (C:\Users\000\IdeaProjects\springboot-headline\target\classes started by 000 in C:\Users\000\IdeaProjects\springboot-headline)
+20:47:00.478 [main] INFO  com.cchu.Main - [logStartupProfileInfo,632] - No active profile set, falling back to 1 default profile: "default"
+20:47:01.146 [main] INFO  o.s.b.w.e.t.TomcatWebServer - [initialize,108] - Tomcat initialized with port(s): 8080 (http)
+20:47:01.147 [main] INFO  o.a.c.c.AprLifecycleListener - [log,173] - Loaded Apache Tomcat Native library [2.0.6] using APR version [1.7.4].
+20:47:01.162 [main] INFO  o.a.c.c.AprLifecycleListener - [log,173] - OpenSSL successfully initialized [OpenSSL 3.0.11 19 Sep 2023]
+20:47:01.169 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+20:47:01.170 [main] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+20:47:01.170 [main] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/10.1.7]
+20:47:01.224 [main] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+20:47:01.224 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - [prepareWebApplicationContext,291] - Root WebApplicationContext: initialization completed in 717 ms
+20:47:01.796 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-8080"]
+20:47:01.809 [main] INFO  o.s.b.w.e.t.TomcatWebServer - [start,220] - Tomcat started on port(s): 8080 (http) with context path ''
+20:47:01.817 [main] INFO  com.cchu.Main - [logStarted,57] - Started Main in 1.615 seconds (process running for 2.209)
+20:47:54.733 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+20:47:54.733 [http-nio-8080-exec-1] INFO  o.s.w.s.DispatcherServlet - [initServletBean,532] - Initializing Servlet 'dispatcherServlet'
+20:47:54.734 [http-nio-8080-exec-1] INFO  o.s.w.s.DispatcherServlet - [initServletBean,554] - Completed initialization in 1 ms
+20:53:01.618 [main] INFO  o.s.t.c.s.AnnotationConfigContextLoaderUtils - [detectDefaultConfigurationClasses,83] - Could not detect default configuration classes for test class [com.cchu.SpringBootTest]: SpringBootTest does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+20:53:01.686 [main] INFO  o.s.b.t.c.SpringBootTestContextBootstrapper - [getOrFindConfigurationClasses,248] - Found @SpringBootConfiguration com.cchu.Main for test class com.cchu.SpringBootTest
+20:53:01.993 [main] INFO  c.c.SpringBootTest - [logStarting,51] - Starting SpringBootTest using Java 21.0.1 with PID 14320 (started by 000 in C:\Users\000\IdeaProjects\springboot-headline)
+20:53:01.994 [main] INFO  c.c.SpringBootTest - [logStartupProfileInfo,632] - No active profile set, falling back to 1 default profile: "default"
+20:53:03.410 [main] INFO  c.c.SpringBootTest - [logStarted,57] - Started SpringBootTest in 1.621 seconds (process running for 2.444)
+20:53:03.683 [main] INFO  c.a.d.p.DruidDataSource - [init,1010] - {dataSource-1} inited
+20:53:03.938 [SpringApplicationShutdownHook] INFO  c.a.d.p.DruidDataSource - [close,2170] - {dataSource-1} closing ...
+20:53:03.939 [SpringApplicationShutdownHook] INFO  c.a.d.p.DruidDataSource - [close,2243] - {dataSource-1} closed
+20:55:16.874 [main] INFO  o.s.t.c.s.AnnotationConfigContextLoaderUtils - [detectDefaultConfigurationClasses,83] - Could not detect default configuration classes for test class [com.cchu.SpringBootTest]: SpringBootTest does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+20:55:16.952 [main] INFO  o.s.b.t.c.SpringBootTestContextBootstrapper - [getOrFindConfigurationClasses,248] - Found @SpringBootConfiguration com.cchu.Main for test class com.cchu.SpringBootTest
+20:55:17.267 [main] INFO  c.c.SpringBootTest - [logStarting,51] - Starting SpringBootTest using Java 21.0.1 with PID 16132 (started by 000 in C:\Users\000\IdeaProjects\springboot-headline)
+20:55:17.268 [main] INFO  c.c.SpringBootTest - [logStartupProfileInfo,632] - No active profile set, falling back to 1 default profile: "default"
+20:55:18.585 [main] INFO  c.c.SpringBootTest - [logStarted,57] - Started SpringBootTest in 1.53 seconds (process running for 2.33)
+20:55:18.865 [main] INFO  c.a.d.p.DruidDataSource - [init,1010] - {dataSource-1} inited
+20:55:19.133 [SpringApplicationShutdownHook] INFO  c.a.d.p.DruidDataSource - [close,2170] - {dataSource-1} closing ...
+20:55:19.134 [SpringApplicationShutdownHook] INFO  c.a.d.p.DruidDataSource - [close,2243] - {dataSource-1} closed
+20:56:45.456 [main] INFO  o.s.t.c.s.AnnotationConfigContextLoaderUtils - [detectDefaultConfigurationClasses,83] - Could not detect default configuration classes for test class [com.cchu.SpringBootTest]: SpringBootTest does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+20:56:45.537 [main] INFO  o.s.b.t.c.SpringBootTestContextBootstrapper - [getOrFindConfigurationClasses,248] - Found @SpringBootConfiguration com.cchu.Main for test class com.cchu.SpringBootTest
+20:56:45.826 [main] INFO  c.c.SpringBootTest - [logStarting,51] - Starting SpringBootTest using Java 21.0.1 with PID 9448 (started by 000 in C:\Users\000\IdeaProjects\springboot-headline)
+20:56:45.827 [main] INFO  c.c.SpringBootTest - [logStartupProfileInfo,632] - No active profile set, falling back to 1 default profile: "default"
+20:56:47.168 [main] INFO  c.c.SpringBootTest - [logStarted,57] - Started SpringBootTest in 1.528 seconds (process running for 2.332)
+20:56:47.416 [main] INFO  c.a.d.p.DruidDataSource - [init,1010] - {dataSource-1} inited
+20:56:47.656 [SpringApplicationShutdownHook] INFO  c.a.d.p.DruidDataSource - [close,2170] - {dataSource-1} closing ...
+20:56:47.657 [SpringApplicationShutdownHook] INFO  c.a.d.p.DruidDataSource - [close,2243] - {dataSource-1} closed
+20:57:09.938 [SpringApplicationShutdownHook] INFO  c.a.d.p.DruidDataSource - [close,2170] - {dataSource-0} closing ...
+20:57:11.537 [main] INFO  com.cchu.Main - [logStarting,51] - Starting Main using Java 21.0.1 with PID 16036 (C:\Users\000\IdeaProjects\springboot-headline\target\classes started by 000 in C:\Users\000\IdeaProjects\springboot-headline)
+20:57:11.539 [main] INFO  com.cchu.Main - [logStartupProfileInfo,632] - No active profile set, falling back to 1 default profile: "default"
+20:57:12.193 [main] INFO  o.s.b.w.e.t.TomcatWebServer - [initialize,108] - Tomcat initialized with port(s): 8080 (http)
+20:57:12.194 [main] INFO  o.a.c.c.AprLifecycleListener - [log,173] - Loaded Apache Tomcat Native library [2.0.6] using APR version [1.7.4].
+20:57:12.197 [main] INFO  o.a.c.c.AprLifecycleListener - [log,173] - OpenSSL successfully initialized [OpenSSL 3.0.11 19 Sep 2023]
+20:57:12.204 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+20:57:12.204 [main] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+20:57:12.204 [main] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/10.1.7]
+20:57:12.264 [main] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+20:57:12.265 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - [prepareWebApplicationContext,291] - Root WebApplicationContext: initialization completed in 695 ms
+20:57:12.826 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-8080"]
+20:57:12.839 [main] INFO  o.s.b.w.e.t.TomcatWebServer - [start,220] - Tomcat started on port(s): 8080 (http) with context path ''
+20:57:12.844 [main] INFO  com.cchu.Main - [logStarted,57] - Started Main in 1.603 seconds (process running for 2.15)
+20:58:57.665 [SpringApplicationShutdownHook] INFO  c.a.d.p.DruidDataSource - [close,2170] - {dataSource-0} closing ...
+20:58:59.232 [main] INFO  com.cchu.Main - [logStarting,51] - Starting Main using Java 21.0.1 with PID 15448 (C:\Users\000\IdeaProjects\springboot-headline\target\classes started by 000 in C:\Users\000\IdeaProjects\springboot-headline)
+20:58:59.234 [main] INFO  com.cchu.Main - [logStartupProfileInfo,632] - No active profile set, falling back to 1 default profile: "default"
+20:58:59.835 [main] INFO  o.s.b.w.e.t.TomcatWebServer - [initialize,108] - Tomcat initialized with port(s): 8080 (http)
+20:58:59.835 [main] INFO  o.a.c.c.AprLifecycleListener - [log,173] - Loaded Apache Tomcat Native library [2.0.6] using APR version [1.7.4].
+20:58:59.838 [main] INFO  o.a.c.c.AprLifecycleListener - [log,173] - OpenSSL successfully initialized [OpenSSL 3.0.11 19 Sep 2023]
+20:58:59.843 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+20:58:59.844 [main] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+20:58:59.844 [main] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/10.1.7]
+20:58:59.897 [main] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+20:58:59.898 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - [prepareWebApplicationContext,291] - Root WebApplicationContext: initialization completed in 639 ms
+20:59:00.396 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-8080"]
+20:59:00.408 [main] INFO  o.s.b.w.e.t.TomcatWebServer - [start,220] - Tomcat started on port(s): 8080 (http) with context path ''
+20:59:00.416 [main] INFO  com.cchu.Main - [logStarted,57] - Started Main in 1.433 seconds (process running for 1.953)
+21:00:59.730 [SpringApplicationShutdownHook] INFO  c.a.d.p.DruidDataSource - [close,2170] - {dataSource-0} closing ...
+21:01:01.249 [main] INFO  com.cchu.Main - [logStarting,51] - Starting Main using Java 21.0.1 with PID 6484 (C:\Users\000\IdeaProjects\springboot-headline\target\classes started by 000 in C:\Users\000\IdeaProjects\springboot-headline)
+21:01:01.251 [main] INFO  com.cchu.Main - [logStartupProfileInfo,632] - No active profile set, falling back to 1 default profile: "default"
+21:01:01.842 [main] INFO  o.s.b.w.e.t.TomcatWebServer - [initialize,108] - Tomcat initialized with port(s): 8080 (http)
+21:01:01.843 [main] INFO  o.a.c.c.AprLifecycleListener - [log,173] - Loaded Apache Tomcat Native library [2.0.6] using APR version [1.7.4].
+21:01:01.845 [main] INFO  o.a.c.c.AprLifecycleListener - [log,173] - OpenSSL successfully initialized [OpenSSL 3.0.11 19 Sep 2023]
+21:01:01.851 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+21:01:01.852 [main] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+21:01:01.852 [main] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/10.1.7]
+21:01:01.910 [main] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+21:01:01.911 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - [prepareWebApplicationContext,291] - Root WebApplicationContext: initialization completed in 633 ms
+21:01:02.407 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-8080"]
+21:01:02.418 [main] INFO  o.s.b.w.e.t.TomcatWebServer - [start,220] - Tomcat started on port(s): 8080 (http) with context path ''
+21:01:02.427 [main] INFO  com.cchu.Main - [logStarted,57] - Started Main in 1.431 seconds (process running for 1.948)
+21:01:33.938 [SpringApplicationShutdownHook] INFO  c.a.d.p.DruidDataSource - [close,2170] - {dataSource-0} closing ...
+21:01:35.429 [main] INFO  com.cchu.Main - [logStarting,51] - Starting Main using Java 21.0.1 with PID 10892 (C:\Users\000\IdeaProjects\springboot-headline\target\classes started by 000 in C:\Users\000\IdeaProjects\springboot-headline)
+21:01:35.431 [main] INFO  com.cchu.Main - [logStartupProfileInfo,632] - No active profile set, falling back to 1 default profile: "default"
+21:01:36.015 [main] INFO  o.s.b.w.e.t.TomcatWebServer - [initialize,108] - Tomcat initialized with port(s): 8080 (http)
+21:01:36.016 [main] INFO  o.a.c.c.AprLifecycleListener - [log,173] - Loaded Apache Tomcat Native library [2.0.6] using APR version [1.7.4].
+21:01:36.019 [main] INFO  o.a.c.c.AprLifecycleListener - [log,173] - OpenSSL successfully initialized [OpenSSL 3.0.11 19 Sep 2023]
+21:01:36.024 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+21:01:36.024 [main] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+21:01:36.025 [main] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/10.1.7]
+21:01:36.078 [main] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+21:01:36.078 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - [prepareWebApplicationContext,291] - Root WebApplicationContext: initialization completed in 618 ms
+21:01:36.559 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-8080"]
+21:01:36.571 [main] INFO  o.s.b.w.e.t.TomcatWebServer - [start,220] - Tomcat started on port(s): 8080 (http) with context path ''
+21:01:36.576 [main] INFO  com.cchu.Main - [logStarted,57] - Started Main in 1.406 seconds (process running for 1.904)
+21:01:47.854 [main] INFO  o.s.t.c.s.AnnotationConfigContextLoaderUtils - [detectDefaultConfigurationClasses,83] - Could not detect default configuration classes for test class [com.cchu.SpringBootTest]: SpringBootTest does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+21:01:47.932 [main] INFO  o.s.b.t.c.SpringBootTestContextBootstrapper - [getOrFindConfigurationClasses,248] - Found @SpringBootConfiguration com.cchu.Main for test class com.cchu.SpringBootTest
+21:01:48.238 [main] INFO  c.c.SpringBootTest - [logStarting,51] - Starting SpringBootTest using Java 21.0.1 with PID 2896 (started by 000 in C:\Users\000\IdeaProjects\springboot-headline)
+21:01:48.239 [main] INFO  c.c.SpringBootTest - [logStartupProfileInfo,632] - No active profile set, falling back to 1 default profile: "default"
+21:01:49.534 [main] INFO  c.c.SpringBootTest - [logStarted,57] - Started SpringBootTest in 1.494 seconds (process running for 2.313)
+21:01:49.792 [main] INFO  c.a.d.p.DruidDataSource - [init,1010] - {dataSource-1} inited
+21:01:50.022 [SpringApplicationShutdownHook] INFO  c.a.d.p.DruidDataSource - [close,2170] - {dataSource-1} closing ...
+21:01:50.024 [SpringApplicationShutdownHook] INFO  c.a.d.p.DruidDataSource - [close,2243] - {dataSource-1} closed
+21:20:48.400 [main] INFO  com.cchu.BoliuTest - [test,15] - -----initcom.boliu.sdk.BLClient@72d6b3ba
+21:24:05.070 [main] INFO  com.cchu.BoliuTest - [test,16] - -----initcom.boliu.sdk.BLClient@72d6b3ba
+21:24:05.076 [main] INFO  com.cchu.BoliuTest - [test,29] - ======jsonObject{"请登录":[{"请登录":"未登录区块链系统 ，请登录！"}]}
+21:28:56.771 [main] INFO  com.cchu.BoliuTest - [test,16] - -----initcom.boliu.sdk.BLClient@72d6b3ba
+21:28:56.787 [main] INFO  com.cchu.BoliuTest - [test,30] - ======jsonObject{"注册用户":[{"注册用户":"密码度长度小于8位"}]}
+21:29:17.816 [main] INFO  com.cchu.BoliuTest - [test,16] - -----initcom.boliu.sdk.BLClient@72d6b3ba
+21:29:17.832 [main] INFO  com.cchu.BoliuTest - [test,30] - ======jsonObject{"注册用户":[{"注册用户":"密码度长度小于8位"}]}
+21:29:32.184 [main] INFO  com.cchu.BoliuTest - [test,16] - -----initcom.boliu.sdk.BLClient@72d6b3ba
+21:29:32.202 [main] INFO  com.cchu.BoliuTest - [test,30] - ======jsonObject{"注册用户":[{"注册用户":"注册成功！","用户名":"张三","公钥":"197730267733467763557736557762057732323776322077552257745324773492377549207722395776659077535997117664775662507663554664247664405665754664544660237664537665505663739566455906633599611544630544033954460590445659941","私钥":"1355479455246355436355462255664925543693552639755326995570294557679455067965506329552402755430245110337447335442334594335622336542337552335724336524335422335074334272933260253377024311722657722555322463792275075225607421","私钥密码":"123456asd","身份证":"440682200001010105"}]}
+21:31:29.293 [main] INFO  com.cchu.BoliuTest - [test,16] - -----initcom.boliu.sdk.BLClient@72d6b3ba
+21:31:29.313 [main] INFO  com.cchu.BoliuTest - [test,32] - ======jsonObject{"注册用户":[{"注册用户":"数字证书已存在！"}]}
+21:31:29.322 [main] INFO  com.cchu.BoliuTest - [test,33] - ======jsonObject1{"请登录":[{"请登录":"未登录区块链系统 ，请登录！"}]}
+21:39:24.559 [main] INFO  com.cchu.BoliuTest - [test,16] - -----initcom.boliu.sdk.BLClient@72d6b3ba
+21:39:24.575 [main] INFO  com.cchu.BoliuTest - [test,20] - ======jsonObject{"注册用户":[{"注册用户":"数字证书已存在！"}]}
+21:39:24.585 [main] INFO  com.cchu.BoliuTest - [test,23] - ======jsonObject1{"请登录":[{"请登录":"未登录区块链系统 ，请登录！"}]}
+21:39:24.587 [main] INFO  com.cchu.BoliuTest - [test,27] - ======jsonObject2{"请登录":[{"请登录":"未登录区块链系统 ，请登录！"}]}
+21:44:33.525 [main] INFO  com.cchu.BoliuTest - [test,16] - -----initcom.boliu.sdk.BLClient@72d6b3ba
+21:44:33.573 [main] INFO  com.cchu.BoliuTest - [test,24] - ======注册用户{"注册用户":[{"注册用户":"数字证书已存在！"}]}
+21:44:33.582 [main] INFO  com.cchu.BoliuTest - [test,25] - ======激活和登录{"激活用户":[{"激活用户":"无权限操作"}],"登录系统":[{"登录系统":"登录区块链系统失败！用户不存在！,您还有 4 次机会"}]}
+21:44:33.583 [main] INFO  com.cchu.BoliuTest - [test,28] - ======信息签名{"请登录":[{"请登录":"未登录区块链系统 ，请登录！"}]}
+21:44:33.585 [main] INFO  com.cchu.BoliuTest - [test,32] - ======数据上链{"请登录":[{"请登录":"未登录区块链系统 ，请登录！"}]}
+21:46:56.478 [main] INFO  com.cchu.BoliuTest - [test,16] - -----initcom.boliu.sdk.BLClient@72d6b3ba
+21:46:56.510 [main] INFO  com.cchu.BoliuTest - [test,25] - ======激活和登录{"激活用户":[{"激活用户":"无权限操作"}],"登录系统":[{"登录系统":"登录区块链系统失败！用户不存在！,您还有 3 次机会"}]}
+21:46:56.518 [main] INFO  com.cchu.BoliuTest - [test,28] - ======信息签名{"请登录":[{"请登录":"未登录区块链系统 ，请登录！"}]}
+21:46:56.520 [main] INFO  com.cchu.BoliuTest - [test,32] - ======数据上链{"请登录":[{"请登录":"未登录区块链系统 ，请登录！"}]}
+21:51:21.297 [main] INFO  com.cchu.BoliuTest - [test,16] - -----initcom.boliu.sdk.BLClient@72d6b3ba
+21:51:21.312 [main] INFO  com.cchu.BoliuTest - [test,20] - ======注册用户{"注册用户":[{"注册用户":"数字证书已存在！"}]}
+21:54:00.203 [main] INFO  com.cchu.BoliuTest - [test,16] - -----initcom.boliu.sdk.BLClient@72d6b3ba
+21:54:00.220 [main] INFO  com.cchu.BoliuTest - [test,20] - ======注册用户{"注册用户":[{"注册用户":"注册成功！","用户名":"李三","公钥":"144456264475774426554450554467054476323443322044562254406327442592344629204476395447259044565994112220765226376224654225446227705227656223696223776226536226705224039522545902246599211877240577443957756590772059971","私钥":"1777200457729906772994577966327799645776534779925577632277909507756507769237792207739567732567114002952600279230029337009665500294230029744002955400296650096635002954400922400397200322701126697747662924566925066392466325761","私钥密码":"1234abcd","身份证":"440682200001010101"}]}
+21:57:07.386 [main] INFO  com.cchu.BoliuTest - [test,16] - -----initcom.boliu.sdk.BLClient@72d6b3ba
+21:57:07.418 [main] INFO  com.cchu.BoliuTest - [test,26] - ======激活和登录{"登录系统":[{"登录系统":"登录区块链系统失败！用户不存在！,您还有 4 次机会"}],"激活用户":[{"激活用户":"无权限操作"}]}
+22:03:11.587 [main] INFO  com.cchu.BoliuTest - [test,16] - -----initcom.boliu.sdk.BLClient@72d6b3ba
+22:03:11.619 [main] INFO  com.cchu.BoliuTest - [test,26] - ======激活和登录{"登录系统":[{"登录系统":"登录区块链系统失败！用户不存在！,您还有 3 次机会"}],"激活用户":[{"激活用户":"无权限操作"}]}
+22:07:40.201 [main] INFO  com.cchu.BoliuTest - [test,16] - -----initcom.boliu.sdk.BLClient@72d6b3ba
+22:07:40.248 [main] INFO  com.cchu.BoliuTest - [test,26] - ======激活和登录{"登录系统":[{"登录系统":"区块链系统登录成功！"}],"激活用户":[{"激活用户":"激活用户成功"}]}
+22:07:40.259 [main] INFO  com.cchu.BoliuTest - [test,29] - ======信息签名{"信息签名":[{"信息签名":"10330989253392864233428245339282243342804633028965337287563372854633598674337989453379824531"}]}
+22:10:42.909 [main] INFO  com.cchu.BoliuTest - [test,16] - -----initcom.boliu.sdk.BLClient@72d6b3ba
+22:10:42.969 [main] INFO  com.cchu.BoliuTest - [test,34] - ======数据上链{"登录系统":[{"登录系统":"区块链系统登录成功！"}],"数据上链":[{"数据上链":"数据上链成功！","上链用户":"李三","哈希值":"202403212210420000000100004666355455646420506224534646623043353342536564264355226546056204","区块高度":"0","业务名称":"cy_chain","数据":"10330989253392864233428245339282243342804633028965337287563372854633598674337989453379824531","公开数据":"20240321221042000000010000.","数据ID":"","数据KEY":"","关联动作":"","数据URL":"","上链时间":"2024-03-21 22:10:42"}]}
